@@ -10,9 +10,8 @@ export default function SideBar() {
     const totalReviews = reviews.reduce((prev, current)=>{
         const currentRating = current.stars
         return prev + currentRating
-    },0);
-
-    const averageReviews = totalReviews/reviews.length
+    },0) ;
+    const averageReviews = totalReviews/reviews.length || 0
 
     const showAllReviewsHandler = ()=>{
         dispatch({type: "DISPLAY_ALL_REVIEWS"})
