@@ -1,0 +1,7 @@
+.reviewsContainer {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 11vh;
+
+
+}

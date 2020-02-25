@@ -1,0 +1,35 @@
+
+    [{
+        "id": 1,
+        "reviewerName": "Test User",
+        "stars": 5,
+        "title": "Perfect",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus tempore suscipit dolorum molestias sapiente, nemo saepe distinctio aliquid hic totam cumque similique eveniet quia! Modi praesentium distinctio deserunt officia inventore!",
+        "show": true
+    },
+    {
+        "id": 2,
+        "reviewerName": "Test User",
+        "stars": 4,
+        "title": "Great Device",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus tempore suscipit dolorum molestias sapiente, nemo saepe distinctio aliquid hic totam cumque similique eveniet quia! Modi praesentium distinctio deserunt officia inventore!",
+        "show": true
+    },
+    {
+        "id": 3,
+        "reviewerName": "Test User",
+        "stars": 4,
+        "title": "Easy installation",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus tempore suscipit dolorum molestias sapiente, nemo saepe distinctio aliquid hic totam cumque similique eveniet quia! Modi praesentium distinctio deserunt officia inventore!",
+        "show": true
+    },
+    {
+        "id": 4,
+        "reviewerName": "Test User",
+        "stars": 3,
+        "title": " Not Bad",
+        "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus tempore suscipit dolorum molestias sapiente, nemo saepe distinctio aliquid hic totam cumque similique eveniet quia! Modi praesentium distinctio deserunt officia inventore!",
+        "show": true
+    }]
+
+

@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+}
+.sideBarContainer {
+  margin: 3vw;
+  width: 20vw;
+}
+
+.blankNav{
+  height: 10vh;
+  width: 100%;
+  background-color: black;
+  display: inline-block;
+}
+
+.contentContainer {
+  width: 63vw
+}
+
+.buttonContainer{
+  display: flex;
+  justify-content: flex-end;
+  margin: 5vh
+}

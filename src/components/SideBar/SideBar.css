@@ -1,0 +1,22 @@
+.sideBarStars {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.sideBarStars div {
+    padding-right: 10px;
+}
+
+
+
+.image {
+    background-image: url('/image.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 43vh;
+    width: 100%
+}
+
+.totalReviews {
+    margin: 2vh 0;
+}

@@ -1,0 +1,50 @@
+.whiteBtn {
+    color: #008383;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #008383;
+    height: 5vh;
+    width: 10vw;
+    border-radius: 5px;
+    margin-left: 1vw;
+    cursor: pointer;
+}
+
+.solidBtn {
+    background-color: #008383;
+    color: white;
+    border-style: none;
+    height: 5vh;
+    border-radius: 5px;
+    width: 10vw;
+    margin-left: 1vw;
+    cursor: pointer;
+}
+
+.solidBtn:hover,
+button:focus {
+    background:#008383b6;
+}
+
+.solidBtn:focus {
+    outline: 1px solid #fff;
+    outline-offset: -4px;
+}
+
+.solidBtn:active {
+    transform: scale(0.99);
+}
+
+.whiteBtn:hover,
+.whiteBtn:focus {
+    border-width: 2px;
+}
+
+.whiteBtn:focus {
+    outline: 1px solid #008383b6;
+    outline-offset: -4px;
+}
+
+.whiteBtn:active {
+    transform: scale(0.99);
+}

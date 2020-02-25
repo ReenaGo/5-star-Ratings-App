@@ -1,0 +1,26 @@
+.barContainer {
+    position: relative;
+    width: 16vw;
+    height: 3vh;
+    border: 1px rgba(211, 211, 211, 0.555) solid;
+    margin: 5px;
+}
+
+.bar{
+    background-color:#f8ce0b;
+    position: absolute;
+    height: 100%
+}
+
+.starBarContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.starCount {
+    padding-top: 5px;
+    text-decoration: underline;
+    color: #f8ce0b;
+    font-size: small;
+
+}
